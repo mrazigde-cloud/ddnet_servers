@@ -53,6 +53,6 @@ def update_readme(servers):
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
-if name == "main":
+if __name__ == "__main__":
     servers_list = fetch_servers()
     update_readme(servers_list)
