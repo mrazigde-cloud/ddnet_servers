@@ -1,5 +1,5 @@
 # Мониторинг серверов DDNet / Teeworlds
-Последнее обновление: 22.11.2026 06:23 МСК
+Последнее обновление: 22.11.2026 14:50 МСК
 
 Источник: [status.tw](https://status.tw) (`api.status.tw/server/list`)
 
@@ -7,53 +7,53 @@
 
 | Название сервера | Карта | Игроки | Команда подключения |
 | :--- | :--- | :---: | :--- |
-| DDNet CHN5 上海 - Oldschool 传统 | Destiny 3 | 60/127 | `connect 118.25.11.154:8318` |
-| DDNet CHN5 上海 - DDmaX.Next 古典 | FWYS 4 | 58/127 | `connect 118.25.11.154:8304` |
-| DDNet GER - Novice | Multeasymap | 49/127 | `connect 45.141.57.22:8338` |
-| DDNet RUS - BLOCKER #1 | Copy Love Box | 43/127 | `connect 46.174.54.240:8299` |
-| DDNet CHN7 广州 - DDmaX.Next 古典 | Hope | 39/127 | `connect 119.91.35.4:8298` |
-| TeeFusion RUS / Block / Copy Box | Copy The Box TF | 37/128 | `connect 46.174.48.103:51011` |
-| DDNet CHN9 广州 - Novice 简单 | ZeroX | 34/127 | `connect 119.91.5.237:8312` |
-| DDNet RUS - Novice | Linear | 30/127 | `connect 46.174.54.240:8303` |
-| TeeUnion / Block / Ja pierdole / #2 | Copy Love Box 2s | 29/127 | `connect 37.230.228.206:8501` |
-| DDNet CHN6 上海 - Novice 简单 | Kobra | 29/127 | `connect 111.231.57.179:8311` |
-| DDNet CHN7 广州 - Moderate 中阶 | Noo! | 28/127 | `connect 119.91.35.4:8303` |
-| DDNet CHN4 成都 - Brutal 高阶 | Stronghold 2 | 27/127 | `connect 139.155.68.123:8309` |
-| /*KoG*/ BRA #1 - Main Gores [kog.tw] | Springlobe | 27/63 | `connect 172.233.25.72:8303` |
-| DDNet Brazil - BLOCKER #2 | Blmap4 | 26/127 | `connect 172.233.16.10:8204` |
-| Axiom ⌬ 广州 ✦ 疯狂 - CHN5 钩累死 | Afterdeath | 25/32 | `connect 118.89.18.246:8306` |
-| /*KoG*/ BRA #2 - Hard Gores [kog.tw] | CrackedMoon | 22/63 | `connect 172.233.25.72:8304` |
-| DDNet RUS - Moderate | Patchwork | 20/127 | `connect 46.174.54.240:8353` |
-| DDNet RUS - Novice | Linear | 19/127 | `connect 46.174.54.240:8320` |
-| TeeUnion / Block / Meow / #1 | Copy Love Box 2s | 18/127 | `connect 37.230.228.206:8500` |
-| DDNet RUS - BLOCKER #2 | Copy Love Box | 18/127 | `connect 46.174.54.240:8301` |
-| DDNet RUS - Brutal | Ton 2 | 18/127 | `connect 46.174.54.240:8407` |
-| DDNet RUS - Novice | Kobra | 17/127 | `connect 46.174.54.240:8369` |
-| /*KoG*/ USA2 #1 - Hard Gores [kog.tw] | CTF_Gores | 17/63 | `connect 74.91.116.114:8303` |
-| DDNet CHN7 广州 - Brutal 高阶 | Fluke | 16/127 | `connect 119.91.35.4:8308` |
-| DDNet RUS - Novice | Linear | 14/127 | `connect 46.174.54.240:8304` |
-| MMOTee 2.0 / UPDATE! / LOTS OF CONTENT | Multiworld | 14/32 | `connect 192.124.189.5:8310` |
-| DDNet RUS - Event | 2 Days in the back | 13/127 | `connect 46.174.54.240:8340` |
-| /*KoG*/ BRA #6 - Extreme Gores [kog.tw] | PEAK | 13/63 | `connect 172.233.25.72:8308` |
-| [X2] МЕДЛЕННЫЙ ГОРЕС / SLOW GORES / RUS4 | CkiS2 | 12/128 | `connect 37.230.228.124:8404` |
-| DDNet CHN6 上海 - Novice 简单 | Seagulls | 12/127 | `connect 111.231.57.179:8303` |
-| DDNet CHN3 宁波 - Moderate 中阶 | Xabier | 12/127 | `connect 114.66.25.213:8305` |
-| DDNet GER - BLOCKER #1 | Copy Love Box | 11/127 | `connect 45.141.57.22:8307` |
-| [A] /*KoG*/ GER5 #1 - Hard Gores [kog.tw] | ChillerDragores18 | 11/63 | `connect 45.141.57.199:8303` |
-| DDNet POL - Oldschool | Sadway | 11/127 | `connect 57.128.201.180:8311` |
-| DDNet CHN6 上海 - Solo 单人 | Short And Precise 1 | 11/127 | `connect 111.231.57.179:8327` |
-| DDNet USA4 - Novice | Cartoon | 10/127 | `connect 5.78.113.138:8298` |
-| [A] /*KoG*/ GER5 #11 - Extreme Gores [kog.tw] | CandyWorld | 9/63 | `connect 45.141.57.199:8313` |
-| DDNet RUS - Brutal | Quantum | 9/127 | `connect 46.174.54.240:8313` |
-| DDNet CHN4 成都 - Novice 简单 | Vizur | 9/127 | `connect 139.155.68.123:8306` |
-| /*KoG*/ BRA #5 - Main Gores [kog.tw] | Sandy_Cave | 9/63 | `connect 172.233.25.72:8307` |
-| DDNet Chile - Moderate | luminati | 8/127 | `connect 38.7.199.218:8303` |
-| DDNet RUS - DDmaX.Next | FWYS 4 | 8/127 | `connect 46.174.54.240:8410` |
-| ! Y•T•H [Block++ fng] {RUS} / #LinearMulteasymapDDNet | Copy Love Box Kotya | 8/120 | `connect 89.253.222.214:8303` |
-| DDNet CHN6 上海 - Moderate 中阶 | Zaiross-Gores | 8/127 | `connect 111.231.57.179:8318` |
-| DDNet CHN3 宁波 - Novice 简单 | GeRollA | 7/127 | `connect 114.66.25.213:8323` |
-| DDNet Taiwan - DDmaX.Pro | Fly to the Moon | 7/127 | `connect 154.223.20.85:8309` |
-| GameUp / Block / +SLOW +МЕГА +DUELS | Copy Love Box Mega | 6/127 | `connect 5.188.138.176:8311` |
-| 0XF ┃ MULTIMODE ┃ BLOCK ★ [MSK] -> ♿ | Unstable | 6/124 | `connect 37.230.228.124:8303` |
-| DDNet GER - Brutal | Simple Down 3 | 6/127 | `connect 45.141.57.22:8308` |
-| TeeFusion RUS / TrainFng | fngTraining | 6/128 | `connect 46.174.48.103:52020` |
+| DDNet CHN6 上海 - Event 活动 | Adrenachill 5 Part 1 | 122/127 | `connect 111.231.57.179:8319` |
+| DDNet GER - Novice | Multeasymap | 117/127 | `connect 45.141.57.22:8338` |
+| DDNet RUS - Novice | Linear | 116/127 | `connect 46.174.54.240:8303` |
+| DDNet RUS - Event | 2 Days in the back | 101/127 | `connect 46.174.54.240:8421` |
+| DDNet CHN5 上海 - DDmaX.Next 古典 | FWYS 4 | 100/127 | `connect 118.25.11.154:8304` |
+| DDNet CHN6 上海 - Novice 简单 | Kobra | 98/127 | `connect 111.231.57.179:8311` |
+| DDNet RUS - Novice | Multeasymap | 96/127 | `connect 46.174.54.240:8316` |
+| DDNet CHN4 成都 - Brutal 高阶 | Simple Down 2 | 91/127 | `connect 139.155.68.123:8304` |
+| DDNet RUS - Novice | Linear | 81/127 | `connect 46.174.54.240:8320` |
+| TeeFusion RUS / Block / Copy Box | Copy The Box TF | 72/128 | `connect 46.174.48.103:51011` |
+| DDNet RUS - Moderate | Patchwork | 69/127 | `connect 46.174.54.240:8353` |
+| DDNet CHN3 宁波 - Moderate 中阶 | Construction I | 66/127 | `connect 114.66.25.213:8305` |
+| DDNet RUS - BLOCKER #2 | Copy Love Box | 65/127 | `connect 46.174.54.240:8301` |
+| GameUp / Block / +SLOW +МЕГА +DUELS | Copy Love Box Mega | 58/127 | `connect 5.188.138.176:8311` |
+| DDNet RUS - Novice | Kobra | 54/127 | `connect 46.174.54.240:8369` |
+| DDNet RUS - Brutal | Grandma | 54/127 | `connect 46.174.54.240:8426` |
+| DDNet CHN5 上海 - Brutal 高阶 | Reef | 51/127 | `connect 118.25.11.154:8321` |
+| DDNet GER - Novice | Linear | 49/127 | `connect 45.141.57.22:8306` |
+| [A] /*KoG*/ GER3 #9 - Main Gores [kog.tw] | Panther | 49/63 | `connect 45.141.57.45:8308` |
+| DDNet RUS - Oldschool | AiP-Gores | 49/127 | `connect 46.174.54.240:8438` |
+| TeeUnion / Block / Ja pierdole / #2 | Copy Love Box 2s | 48/127 | `connect 37.230.228.206:8501` |
+| [A] /*KoG*/ GER3 #24 - Insane Gores [kog.tw] | Morrow | 45/63 | `connect 45.141.57.45:8323` |
+| DDNet RUS - Novice | Linear | 45/127 | `connect 46.174.54.240:8319` |
+| DDNet RUS - BLOCKER #3 | Copy Love Box | 44/127 | `connect 46.174.54.240:8302` |
+| DDNet CHN6 上海 - Moderate 中阶 | Planet Jupiter | 41/127 | `connect 111.231.57.179:8318` |
+| DDNet CHN5 上海 - Novice 简单 | Jungle Camp | 39/127 | `connect 118.25.11.154:8328` |
+| DDNet RUS - BLOCKER #1 | Copy Love Box | 38/127 | `connect 46.174.54.240:8299` |
+| DDNet RUS - Novice | Kobra 2 | 38/127 | `connect 46.174.54.240:8427` |
+| DDNet RUS - Brutal | At Night 2 | 37/127 | `connect 46.174.54.240:8430` |
+| DDNet CHN6 上海 - Novice 简单 | Beyond Light | 37/127 | `connect 111.231.57.179:8305` |
+| DDNet GER - BLOCKER #2 | Copy Love Box | 36/127 | `connect 45.141.57.22:8302` |
+| DDNet GER - Moderate | Baby Aim 2.0 | 33/127 | `connect 45.141.57.22:8344` |
+| DDNet RUS - BLOCKER #6 | Copy Love Box | 32/127 | `connect 46.174.54.240:8392` |
+| DDNet CHN7 广州 - Oldschool 传统 | HDP_Obstaculos | 31/127 | `connect 119.91.35.4:8305` |
+| Legit Network [MSK] №5 - Hard Gores | RaiNyOD | 30/128 | `connect 37.230.162.104:8304` |
+| DDNet GER - BLOCKER #1 | Copy Love Box | 30/127 | `connect 45.141.57.22:8307` |
+| DDNet RUS - BLOCKER #5 | Copy Love Box | 30/127 | `connect 46.174.54.240:8391` |
+| DDNet Taiwan - Moderate | Monochrome | 30/127 | `connect 154.223.20.85:8305` |
+| [X2] МЕДЛЕННЫЙ ГОРЕС / SLOW GORES / RUS1 | RedCastle | 29/128 | `connect 37.230.228.124:8401` |
+| [A] /*KoG*/ GER5 #3 - Insane Gores [kog.tw] | demon | 29/63 | `connect 45.141.57.199:8305` |
+| DDNet RUS - BLOCKER #4 | Copy Love Box | 29/127 | `connect 46.174.54.240:8390` |
+| DDNet CHN5 上海 - Brutal 高阶 | Aim 11.0 | 29/127 | `connect 118.25.11.154:8313` |
+| Legit Network [MSK] №1 - Main Gores | Afternight | 28/128 | `connect 37.230.162.104:8300` |
+| Axiom ⌬ 上海 ✦ 困难 - CHN1 钩累死 | Anagrama | 28/32 | `connect 111.229.161.231:8303` |
+| ANTİNet Turkey DDOS GUARD - Novice | Multeasymap_V4 | 27/128 | `connect 87.76.131.121:8303` |
+| Axiom ⌬ 广州 ✦ 困难 - CHN5 钩累死 | Etuor | 27/32 | `connect 118.89.18.246:8305` |
+| [A] EGO / RUS / #1 / Hard Gores [eternal-gores.com] | RedCastle | 26/64 | `connect 37.230.228.223:8301` |
+| DDNet RUS - Brutal | dalbychsipivo | 26/127 | `connect 46.174.54.240:8328` |
+| DDNet CHN7 广州 - Moderate 中阶 | Noo! | 26/127 | `connect 119.91.35.4:8303` |
+| [X2] МЕДЛЕННЫЙ ГОРЕС / SLOW GORES / RUS2 | planetse | 25/128 | `connect 37.230.228.124:8402` |
